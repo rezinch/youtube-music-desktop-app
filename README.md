@@ -1,15 +1,15 @@
-# YouTube Music Desktop App
+# 🎵YouTube Music Desktop App
 
 A custom Electron-based YouTube Music desktop application.
 
-## Features
+## 🚀Features
 
 - Lightweight and fast.
 - Mini-player support.
 - Custom equalizer (planned).
 - Uses system media controls.
 
-## Installation
+## 📦Installation
 
 ### Prerequisites
 
@@ -29,21 +29,21 @@ A custom Electron-based YouTube Music desktop application.
    ```sh
    npm start
 
-### Build the app:
+### 🏗️Building the app:
   ```sh
   npm run dist
 ```
-## Troubleshooting
+## Troubleshooting🤔
 
 - **Git push rejected:** Run `git pull --rebase` before `git push`.
 - **Permission issues:** Run the command prompt as administrator.
 - **Electron not found:** Try `npm install` again.
 
-## Contributing
+## Contributing🤝
 
 Feel free to fork and submit pull requests!
 
-## License
+## License📜
 
 MIT © 2025 Rezin
 
