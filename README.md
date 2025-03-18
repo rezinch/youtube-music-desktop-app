@@ -47,4 +47,6 @@ Feel free to fork and submit pull requests!
 
 MIT © 2025 Rezin
 
+## Built-App Version
+[Youtube-Music-Desktop-App](https://github.com/rezinch/youtube-music-desktop-app/releases/download/Release-v1.0.0/YouTube.Music.Setup.1.0.0.exe)
 
