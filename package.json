@@ -1,0 +1,23 @@
+{
+  "name": "youtube-music-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.ytm.electron",
+    "productName": "YouTube Music",
+    "copyright": "Copyright © 2025 Rezin",
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    }
+  }
+}
